@@ -37,7 +37,8 @@ Modificacion del reglamento de la ley general de inspeccion del trabajo.
 
 #### Artículo 12.
 * Modalidades de Incio de A.I. de Investigación:
-    * __Visita de Inspección al centro de trabajo:__ Inopinadas, de 1 a + inspectores, sin limite de tiempo, de 1 a + veces.
+    * __Visita de Inspección al cento de trabajo:__ Inopinadas, de 1 a + inspectores, sin limite de tiempo, de 1 a + veces.
     * __Comparescencia:__ Pide que se presente el inspeccionado a una oficina publica a entregar documentación y aclarar dudas.
-    * __Comprobación de Datos:__ 
+    * __Comprobación de Datos:__ Verficacion de datos o antecedentes en otras dependencias del Sector Público. Si hay sospechas proceder con (a) o (b).
+
 

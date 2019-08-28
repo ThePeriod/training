@@ -1,6 +1,6 @@
 # Especializacion en Machine Learning
 Desarrollado por la **amii**  _[Alberta Machine Intelligence Institute]_
-
+![amii](logo.jpg)
 ## Estructura
 
 1. **Machine Learning: Algorithms in the Real World Specialization.**
