@@ -9,20 +9,13 @@ La estructura del curso es un poco entreverada para el estudiante latino. Consis
 
 ## Indice de Notebooks
 1. **EDA con Pandas**
-    * Artículo: 01.0.art
-    * Práctica Dirigida: 01.0.pdi
-    * Solucion de la Práctica: 01.0.spd
-    * Tarea: 01.0.ass
+    * [Artículo](01.0.art.ipynb) | [Práctica Dirigida](01.0.pdi.ipynb) | [Tarea](01.0.ass)
 2. **Análisis Visual de Datos en Python**
     1. _Introducción_:
-        * Artículo:
-        * Práctica Dirigida:
-        * Solucion de la Práctica:
-        * Tarea:
+        * [Artículo](02.1.art.ipynb) | [Práctica Dirigida](02.1.pdi.ipynb) | [Tarea](02.1.ass.ipynb)
     2. _Seaborn, Matplotlib, Plotly_
         * Artículo:
         * Práctica Dirigida:
-        * Solucion de la Práctica:
         * Tarea:
 3. **Clasificación, Árboles de Decision y k vecino más cercano**
     * Artículo:
